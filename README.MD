@@ -9,7 +9,7 @@ Yummy
     ```
 2. Navigate to the  directory:
     ```bash
-    cd test/aku-suka-keju
+    cd aku-suka-keju
     ```
 3. Install the required dependencies:
     ```bash
